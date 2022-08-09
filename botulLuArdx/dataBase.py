@@ -53,7 +53,7 @@ def misto():
     return mistoList
 
 
-def religie():
+def echipa():
     echipaList = {'echipa noastra se numeste Nyanpassu!',
                    'Ardx3000 - Profet',
                    'Kenbreno - High Priest',
